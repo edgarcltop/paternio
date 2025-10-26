@@ -141,7 +141,7 @@ make lint
 
 ## 👨‍💻 About
 
-Developed as a collection of educational examples to demonstrate the practical application of software design patterns in modern Python.
+Developed as a collection of leisure examples to demonstrate the practical application of software design patterns in modern Python.
 
 This repository aims to:
 - Reinforce **SOLID principles**
